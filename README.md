@@ -19,12 +19,12 @@ In addition, you need to have NEST (v 2.20.1) installed. Instructions regarding 
 Please checkout to the branches below and follow the instructions to run simulations and generate the figures, 
 which are presented in the manuscript:
 
-For *Figure 5* please checkout to `simexp/NetworkModel`
+For *Figure 5* see the folder `NetworkModel`
 
-For *Extended Data Fig. 9 panel a* please checkout to `simexp/PertStrength_Research_Exc`
+For *Extended Data Fig. 9 panel a* see the folder `PertStrength_Research_Exc`
 
-For *Extended Data Fig. 9 panel b* please checkout to `simexp/PertStrength_Research_Inh`
+For *Extended Data Fig. 9 panel b* see the folder `PertStrength_Research_Inh`
 
-For *Extended Data Fig. 11 panel a* please checkout to `simexp/BaselineFr_SystemicAct_DisruptBalance_Spontaneous`
+For *Extended Data Fig. 11 panel a* see the folder `BaselineFr_SystemicAct_DisruptBalance_Spontaneous`
 
-For *Extended Data Fig. 11 panel b* please checkout to `simexp/BaselineFr_SystemicAct_DisruptBalance_Evoked`
+For *Extended Data Fig. 11 panel b* see the folder `BaselineFr_SystemicAct_DisruptBalance_Evoked`
